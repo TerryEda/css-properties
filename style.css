@@ -1,0 +1,28 @@
+.container{
+     align-items: center;
+     margin-bottom: 10px;
+     width: 100%;
+    margin-left: 0;
+    padding: 1rem 0;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.dommy{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(62, 65, 65);
+    color: aliceblue;
+    font-weight: 300;
+    justify-content: center;
+    margin-bottom: 150px;
+}
+
+.img {
+    align-items: center;
+    width: auto;
+    height: 5px ;
+    display: flex;
+    justify-content: center;
+}
